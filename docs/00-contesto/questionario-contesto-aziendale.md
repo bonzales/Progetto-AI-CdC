@@ -78,10 +78,10 @@ Se sì: quali società rientrano nel perimetro del reporting per centri di costo
 
 | Area/funzione | Responsabile | Riporta a |
 |---|---|---|
-| da verificare | | |
-| | | |
-| | | |
-| | | |
+| Settore Cultura | Coordinatori di servizio (per singolo servizio) | Direzione (da confermare) |
+| Settore Sociale | Responsabile settore Sociale | Direzione (da confermare) |
+| Amministrazione / Contabilità | da verificare | Direzione (da confermare) |
+| Direzione | da verificare | Presidente / CdA |
 
 **B.3 — Ogni centro di costo ha oggi un responsabile identificato e unico?**
 
@@ -149,14 +149,15 @@ Versione, da quanti anni è in uso, eventuale migrazione pianificata:
 
 **C.4 — Altri sistemi rilevanti oltre all'ERP contabile** (marcare quelli presenti e indicare il prodotto):
 
-- [ ] Paghe/HR: da verificare
+- [x] Paghe/HR: sì, in outsourcing dal consulente del lavoro
 - [ ] Produzione/MES: N/A
 - [ ] Magazzino/WMS: N/A
 - [ ] Cespiti (se separato dall'ERP): da verificare
 - [ ] Tesoreria: da verificare
 - [ ] CRM: da verificare
-- [ ] BI/reporting (Power BI, Qlik, Board, altro): da verificare
-- [ ] Fogli Excel "critici" che di fatto sono un sistema (descrivere): da verificare — probabile presenza vista la mancanza di ribaltamenti/driver strutturati (vedi E.6, E.8)
+- [ ] BI/reporting (Power BI, Qlik, Board, altro): nessuno
+- [ ] Fogli Excel "critici" che di fatto sono un sistema (descrivere): da verificare
+- **Nota:** non esiste oggi un gestionale dedicato alle gare, né alcuno strumento per il controllo di gestione che consenta controlli frequenti — è la lacuna principale che il progetto deve colmare.
 
 **C.5 — Quali formati di export sono disponibili dai sistemi sopra indicati?**
 
@@ -174,11 +175,11 @@ Versione, da quanti anni è in uso, eventuale migrazione pianificata:
 **C.6 — Chi è in grado, oggi, di estrarre i dati dai sistemi? Quanto tempo richiede un'estrazione tipo (es. movimenti contabili di un mese)?**
 *Es.: la responsabile amministrativa estrae la Co.Ge. in 15 minuti; per i dati di produzione serve l'IT, tempi 2-3 giorni.*
 
-> Risposta: da verificare
+> Risposta: l'amministrazione estrae i dati da E-solver autonomamente (senza dipendere da fornitore esterno). Tempi di estrazione da quantificare.
 
 **C.7 — Esiste già un data warehouse, un database di appoggio o un'area condivisa (server, SharePoint, Google Drive) dove confluiscono i dati per il reporting?**
 
-> Risposta: da verificare
+> Risposta: no, nessuna area centralizzata dove confluiscono i dati per il reporting.
 
 ---
 
@@ -221,7 +222,7 @@ Versione, da quanti anni è in uso, eventuale migrazione pianificata:
 - [ ] Stimate dal controller
 - [x] Non gestite mensilmente
 
-> Note: coerente con D.3 — la competenza si sistema solo a fine esercizio, quindi le FDR non sono gestite mensilmente (da confermare).
+> Note: le FDR non sono gestite mensilmente — coerente con D.3 (la competenza si sistema solo a fine esercizio).
 
 **D.5 — Tempi di chiusura attuali: quanti giorni lavorativi dopo la fine del mese servono per avere un conto economico attendibile? E per il report ai responsabili (se esiste)?**
 *Es.: bilancino di verifica al giorno 15; report per la direzione verso il 20-25 del mese successivo.*
@@ -263,7 +264,7 @@ Allegare o incollare un estratto dell'anagrafica attuale (10-15 righe rappresent
 
 **E.3 — Esiste una gerarchia dei CdC (albero: azienda → direzione → area → reparto → centro)? Su quanti livelli? Dove è mantenuta (ERP, Excel, da nessuna parte)?**
 
-> Risposta: da verificare
+> Risposta: no, oggi i CdC sono una lista piatta senza livelli di raggruppamento. La cooperativa è però organizzata almeno in due settori (Cultura e Sociale — vedi B.2/F.3): una gerarchia settore → servizio/comune → CdC è da progettare.
 
 **E.4 — I CdC sono classificati per tipologia?**
 
@@ -303,7 +304,7 @@ Quali sono le imputazioni più problematiche e perché?
 
 **E.7 — Regole di gestione dell'anagrafica: chi può aprire/chiudere un CdC oggi? I codici dismessi vengono riciclati?**
 
-> Risposta: da verificare
+> Risposta: l'apertura/chiusura dei CdC è gestita dall'amministrazione/ufficio contabilità. Politica di riciclo dei codici dismessi da verificare.
 
 **E.8 — Quali driver di allocazione sono già misurati e disponibili ogni mese?** (marcare quelli disponibili)
 
@@ -336,16 +337,16 @@ Quali sono le imputazioni più problematiche e perché?
 
 - [ ] Mensilizzato per CdC e natura di costo
 - [ ] Annuale per CdC, spalmato in dodicesimi
-- [ ] Annuale per CdC, senza mensilizzazione
+- [x] Annuale per CdC, senza mensilizzazione
 
 *Es.: budget annuale per CdC e natura, diviso in dodicesimi tranne energia e premi, mensilizzati a mano.*
 
-> Risposta: da verificare (dipende dal singolo budget di gara)
+> Risposta: budget **annuale per CdC**, con proiezione ripetuta sull'intera durata dell'appalto (es. appalto triennale = budget annuale × 3, senza mensilizzazione). Nessuna ripartizione infra-annuale.
 
 **F.3 — Come viene costruito il budget? Chi partecipa e in quanto tempo?**
 *Es.: il controller propone i numeri partendo dall'anno precedente; i responsabili di stabilimento negoziano a novembre; approvazione CdA a dicembre.*
 
-> Risposta: da verificare — presumibilmente costruito in fase di partecipazione alla gara/bando, non con un processo di budgeting periodico interno.
+> Risposta: i budget di gara sono predisposti in fase di partecipazione al bando dai **coordinatori di servizio per il settore Cultura** e dal **responsabile del settore Sociale**. Non esiste un processo di budgeting periodico interno unificato.
 
 **F.4 — Esistono revisioni infrannuali (forecast)?**
 
@@ -364,7 +365,7 @@ Frequenza e livello di dettaglio:
 
 **F.6 — Esistono costi standard (es. costo orario di trasformazione, distinte base valorizzate) usati nel budget o nella valorizzazione della produzione?**
 
-> Risposta: da verificare (es. costo orario standard per tipologia di operatore/servizio nei budget di gara)
+> Risposta: sì. Si utilizzano i costi da **tabelle ministeriali/CCNL** per determinare il costo della persona assunta su quel progetto/servizio. È l'unico "costo standard" strutturato oggi in uso.
 
 ---
 
@@ -429,9 +430,11 @@ Frequenza e livello di dettaglio:
 **H.2 — Cosa deve assolutamente produrre questo progetto per essere considerato un successo tra 12 mesi? (max 3 risultati misurabili)**
 *Es.: reporting pack per CdC pubblicato entro WD5; azzeramento dei 4 Excel di rielaborazione; commenti dei responsabili sopra soglia in un unico strumento.*
 
-> 1. da verificare con l'imprenditore/direzione
-> 2.
-> 3.
+> Tutti gli obiettivi seguenti sono considerati rilevanti (da prioritizzare/rendere misurabili con la direzione):
+> 1. Report periodico per centro di costo disponibile entro pochi giorni (superando la chiusura solo a fine anno).
+> 2. Budget di gara riconciliati e comparabili con l'actual estratto dal gestionale.
+> 3. Riduzione dei tempi e della manualità nella raccolta/elaborazione dei dati.
+> 4. Coordinatori di servizio coinvolti nel commento periodico degli scostamenti.
 
 **H.3 — Priorità relative: ordinare da 1 (massima) a 6.**
 
@@ -453,12 +456,12 @@ Frequenza e livello di dettaglio:
 
 **H.5 — Ci sono vincoli organizzativi (persone chiave poco disponibili, periodi da evitare, resistenze note)?**
 
-> Risposta: da verificare
+> Risposta: sì — la **ricezione dei dati avviene con tempistiche troppo lunghe** e c'è **poca comunicazione** tra le funzioni. Sono ostacoli organizzativi da affrontare in parallelo alla soluzione tecnica (processo e responsabilità di consegna dati, canali di comunicazione).
 
 **H.6 — Cosa NON deve fare il progetto? (esclusioni esplicite di perimetro)**
 *Es.: non tocchiamo il processo di fatturazione attiva; la contabilità resta dal commercialista; niente cambio ERP.*
 
-> Risposta: da verificare
+> Risposta: nessuna esclusione particolare definita al momento.
 
 ---
 
@@ -500,11 +503,11 @@ Frequenza e livello di dettaglio:
 
 **I.5 — Chi in azienda deve approvare le scelte su dati e strumenti (titolare, IT, DPO, consulente privacy)?**
 
-> Risposta: da verificare
+> Risposta: le scelte su dati e strumenti sono approvate dalla **Direzione** e dal **Presidente / CdA**.
 
 **I.6 — Requisiti di conservazione e tracciabilità: serve poter ricostruire i numeri pubblicati nei mesi passati (versioning di dati, regole di ribaltamento e forecast)? Per quanti anni?**
 
-> Risposta: da verificare
+> Risposta: sì, serve tenere traccia dello storico, ma con orizzonte limitato: **massimo 1-2 anni indietro**.
 
 ---
 
