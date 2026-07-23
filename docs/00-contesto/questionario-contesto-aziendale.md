@@ -380,16 +380,14 @@ Frequenza e livello di dettaglio:
 
 | Persona/ruolo | Attività | Ore stimate/mese |
 |---|---|---|
-| da verificare | | |
-| | | |
+| Nessuno | Nessun reporting periodico strutturato oggi | — |
 
 **G.3 — Quali report escono oggi ogni mese? Compilare la tabella (una riga per report). Allegare un esempio di ciascuno (anche anonimizzato).**
 
 | Report | Contenuto | Destinatari | Strumento | Giorno di uscita |
 |---|---|---|---|---|
 | *Es.: CE direzionale* | *CE riclassificato actual vs budget* | *Imprenditore, CFO* | *Excel* | *WD15* |
-| da verificare | | | | |
-| | | | | |
+| Nessuno | Nessun report periodico prodotto oggi (nemmeno a fine gara) | — | — | — |
 
 **G.4 — I confronti disponibili oggi nei report** (marcare ciò che esiste):
 
@@ -412,7 +410,7 @@ Frequenza e livello di dettaglio:
 
 **G.7 — Come vengono distribuiti i report (email, cartella condivisa, stampa, strumento BI)? Chi controlla che i numeri quadrino con la contabilità prima dell'invio?**
 
-> Risposta: da verificare
+> Risposta: N/A — non essendoci report periodici, non esiste oggi né un canale di distribuzione né un controllo di quadratura pre-invio.
 
 ---
 
