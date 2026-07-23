@@ -19,47 +19,47 @@ I termini tecnici usati nel questionario sono definiti nel [glossario](glossario
 **A.1 — Ragione sociale completa e forma giuridica della società (o delle società) oggetto del progetto.**
 *Es.: Rossi Meccanica S.p.A.; controllata Rossi Service S.r.l.*
 
-> Risposta:
+> Risposta: da verificare — cooperativa sociale (denominazione completa e forma giuridica esatta da confermare)
 
 **A.2 — Settore di attività e principali linee di business.**
 *Es.: stampaggio lamiera per automotive (70% ricavi), carpenteria conto terzi (30%).*
 
-> Risposta:
+> Risposta: Cooperativa sociale. Eroga servizi socioculturali per conto di enti pubblici (es. gestione biblioteche comunali — cfr. centro di costo "104-biblioteca Martellago") nell'ambito di gare/affidamenti con più comuni.
 
 **A.3 — Dimensioni indicative dell'ultimo esercizio chiuso:**
 
 | Grandezza | Valore |
 |---|---|
-| Ricavi (€) | |
-| EBITDA (€ o %) | |
-| Dipendenti (teste a fine anno) | |
-| Dipendenti (FTE medi) | |
-| Esercizio di riferimento | |
+| Ricavi (€) | da verificare |
+| EBITDA (€ o %) | da verificare |
+| Dipendenti (teste a fine anno) | da verificare |
+| Dipendenti (FTE medi) | da verificare |
+| Esercizio di riferimento | da verificare |
 
 **A.4 — Sedi e stabilimenti: elencare tutte le unità locali rilevanti per il controllo di gestione.**
 *Es.: sede legale e amministrativa a Bergamo; stabilimento 1 a Bergamo (stampaggio); stabilimento 2 a Brescia (montaggio); deposito a Piacenza.*
 
 | # | Sede/stabilimento | Località | Attività svolta | Dipendenti (circa) |
 |---|---|---|---|---|
-| 1 | | | | |
+| 1 | da verificare | da verificare | es. gestione biblioteca comunale | da verificare |
 | 2 | | | | |
 | 3 | | | | |
 
 **A.5 — L'azienda fa parte di un gruppo?**
 
-- [ ] No, società singola
+- [x] No, società singola
 - [ ] Sì, capogruppo con controllate italiane
 - [ ] Sì, capogruppo con controllate anche estere
 - [ ] Sì, controllata di un gruppo (indicare la capogruppo)
 
 Se sì: quali società rientrano nel perimetro del reporting per centri di costo? Esistono rapporti intercompany significativi (servizi, affitti, riaddebiti)?
 
-> Risposta:
+> Risposta: N/A, società singola.
 
 **A.6 — Esercizio contabile e calendario: l'esercizio coincide con l'anno solare? Ci sono stagionalità forti da considerare nel budget e nei confronti mensili?**
 *Es.: esercizio solare; agosto quasi fermo per chiusura collettiva; picco produttivo ottobre-novembre.*
 
-> Risposta:
+> Risposta: Esercizio ad anno solare. Presenti stagionalità legate ai servizi erogati (es. servizi scolastici, che si fermano nei mesi estivi; centri estivi, attivi solo in estate).
 
 ---
 
@@ -71,44 +71,44 @@ Se sì: quali società rientrano nel perimetro del reporting per centri di costo
 - [ ] Sì, ma non aggiornato (indicare da quando)
 - [ ] No, esiste solo di fatto
 
-> Risposta / note:
+> Risposta / note: Non in possesso di chi ha compilato il questionario — da recuperare/verificare con la direzione.
 
 **B.2 — Elencare le principali aree/funzioni aziendali di primo livello e il relativo responsabile.**
 *Es.: Direzione Generale — M. Rossi; Produzione — L. Bianchi; Commerciale — G. Verdi; AFC — S. Neri; HR — ...; IT — ...; Acquisti — ...; Qualità — ...*
 
 | Area/funzione | Responsabile | Riporta a |
 |---|---|---|
-| | | |
+| da verificare | | |
 | | | |
 | | | |
 | | | |
 
 **B.3 — Ogni centro di costo ha oggi un responsabile identificato e unico?**
 
-- [ ] Sì, ogni CdC ha un solo responsabile formalizzato
+- [x] Sì, ogni CdC ha un solo responsabile formalizzato
 - [ ] In parte: alcuni CdC hanno più responsabili o nessuno
 - [ ] No, i CdC non sono associati a responsabili
 
 Se "in parte" o "no": quanti CdC circa sono senza responsabile chiaro, e in quali aree?
 
-> Risposta:
+> Risposta: N/A, ogni centro di costo/servizio ha un coordinatore chiaro.
 
 **B.4 — I responsabili di area/CdC ricevono oggi informazioni economiche sui propri centri? Con che frequenza e in che forma?**
 *Es.: solo i direttori di stabilimento, trimestralmente, con un Excel preparato dal controller.*
 
-> Risposta:
+> Risposta: da verificare
 
 **B.5 — Quanto sono abituati i responsabili a ragionare su budget e scostamenti? (serve per calibrare formazione e change management)**
 
 - [ ] Molto: commentano già regolarmente gli scostamenti
 - [ ] Parzialmente: alcuni sì, altri no
-- [ ] Poco o per nulla: sarebbe una novità
+- [x] Poco o per nulla: sarebbe una novità
 
-> Note:
+> Note: coerente con il fatto che oggi gli scostamenti non vengono commentati (vedi G.5) — servirà un percorso di change management dedicato.
 
 **B.6 — Sono previste riorganizzazioni nei prossimi 12-18 mesi (nuove aree, fusioni di reparti, nuovi stabilimenti) che impatterebbero la struttura dei centri di costo?**
 
-> Risposta:
+> Risposta: da verificare
 
 ---
 
@@ -121,47 +121,47 @@ Se "in parte" o "no": quanti CdC circa sono senza responsabile chiaro, e in qual
 - [ ] SAP (specificare: ECC / S/4HANA / Business One; moduli CO attivi?): ______
 - [ ] Microsoft Dynamics (specificare: 365 Business Central / 365 Finance & Operations / NAV): ______
 - [ ] Sistema Panthera / Sme.up / AS400 custom: ______
-- [ ] Altro: ______
+- [x] Altro: E-solver
 
 Versione, da quanti anni è in uso, eventuale migrazione pianificata:
 
-> Risposta:
+> Risposta: da verificare
 
 **C.2 — Il modulo di contabilità analitica / centri di costo dell'ERP è attivo?**
 
-- [ ] Sì, attivo e usato sistematicamente (il CdC viene imputato sulle registrazioni)
+- [x] Sì, attivo e usato sistematicamente (il CdC viene imputato sulle registrazioni)
 - [ ] Attivo ma usato solo in parte (indicare su quali tipologie di costo)
 - [ ] Presente ma non attivato
 - [ ] Il gestionale non lo prevede / non sappiamo
 
 *Es.: modulo analitica di Alyante attivo su fatture passive e paghe; ammortamenti e magazzino non passano per i CdC.*
 
-> Risposta:
+> Risposta: modulo analitica attivo in E-solver e usato sistematicamente.
 
 **C.3 — Il CdC è obbligatorio al momento della registrazione dei costi (fatture passive, prima nota) oppure viene attribuito dopo, manualmente?**
 
-- [ ] Obbligatorio all'origine sulla registrazione
+- [x] Obbligatorio all'origine sulla registrazione
 - [ ] Facoltativo: viene inserito quando ci si ricorda
 - [ ] Attribuito a posteriori in Excel dal controller/amministrazione
 - [ ] Misto (specificare)
 
-> Risposta:
+> Risposta: il CdC è obbligatorio all'origine sulla registrazione.
 
 **C.4 — Altri sistemi rilevanti oltre all'ERP contabile** (marcare quelli presenti e indicare il prodotto):
 
-- [ ] Paghe/HR: ______ *(es.: Zucchetti Paghe in outsourcing dal consulente del lavoro)*
-- [ ] Produzione/MES: ______
-- [ ] Magazzino/WMS: ______
-- [ ] Cespiti (se separato dall'ERP): ______
-- [ ] Tesoreria: ______
-- [ ] CRM: ______
-- [ ] BI/reporting (Power BI, Qlik, Board, altro): ______
-- [ ] Fogli Excel "critici" che di fatto sono un sistema (descrivere): ______
+- [ ] Paghe/HR: da verificare
+- [ ] Produzione/MES: N/A
+- [ ] Magazzino/WMS: N/A
+- [ ] Cespiti (se separato dall'ERP): da verificare
+- [ ] Tesoreria: da verificare
+- [ ] CRM: da verificare
+- [ ] BI/reporting (Power BI, Qlik, Board, altro): da verificare
+- [ ] Fogli Excel "critici" che di fatto sono un sistema (descrivere): da verificare — probabile presenza vista la mancanza di ribaltamenti/driver strutturati (vedi E.6, E.8)
 
 **C.5 — Quali formati di export sono disponibili dai sistemi sopra indicati?**
 
-- [ ] CSV / TXT
-- [ ] Excel (.xlsx)
+- [x] CSV / TXT
+- [x] Excel (.xlsx)
 - [ ] Accesso diretto al database (SQL) o viste dedicate
 - [ ] API / web service
 - [ ] Solo stampe PDF
@@ -169,16 +169,16 @@ Versione, da quanti anni è in uso, eventuale migrazione pianificata:
 
 *Es.: da Alyante esportiamo il bilancio di verifica e il dettaglio movimenti Co.Ge. in CSV; le paghe arrivano dal consulente in PDF.*
 
-> Risposta (per sistema):
+> Risposta (per sistema): da E-solver sono disponibili export in CSV/Excel.
 
 **C.6 — Chi è in grado, oggi, di estrarre i dati dai sistemi? Quanto tempo richiede un'estrazione tipo (es. movimenti contabili di un mese)?**
 *Es.: la responsabile amministrativa estrae la Co.Ge. in 15 minuti; per i dati di produzione serve l'IT, tempi 2-3 giorni.*
 
-> Risposta:
+> Risposta: da verificare
 
 **C.7 — Esiste già un data warehouse, un database di appoggio o un'area condivisa (server, SharePoint, Google Drive) dove confluiscono i dati per il reporting?**
 
-> Risposta:
+> Risposta: da verificare
 
 ---
 
@@ -188,58 +188,58 @@ Versione, da quanti anni è in uso, eventuale migrazione pianificata:
 
 | Caratteristica | Valore |
 |---|---|
-| Numero indicativo di conti di costo (mastri di CE) | |
-| Livelli della struttura (mastro/conto/sottoconto) | |
-| Ultima revisione significativa (anno) | |
+| Numero indicativo di conti di costo (mastri di CE) | da verificare |
+| Livelli della struttura (mastro/conto/sottoconto) | da verificare |
+| Ultima revisione significativa (anno) | da verificare |
 
 *Es.: circa 400 sottoconti di costo su 3 livelli; struttura standard TeamSystem personalizzata nel 2015.*
 
-> Note:
+> Note: da verificare
 
 **D.2 — Esiste già una riclassificazione gestionale dei conti (mapping conto → natura di costo: personale, materiali, servizi, ecc.)?**
 
-- [ ] Sì, formalizzata e manutenuta (dove? da chi?)
+- [x] Sì, formalizzata e manutenuta (dove? da chi?)
 - [ ] Sì, ma solo dentro un Excel del controller
 - [ ] No, si usa direttamente il piano dei conti civilistico
 
-> Risposta:
+> Risposta: esiste, formalizzata e manutenuta (dove/da chi da verificare).
 
 **D.3 — La contabilità viene chiusa per competenza mensile o solo a fine anno?**
 
 - [ ] Competenza mensile completa (ratei, risconti, ammortamenti, fatture da ricevere ogni mese)
 - [ ] Competenza mensile parziale (indicare cosa viene mensilizzato e cosa no)
-- [ ] Solo per cassa/registrazione durante l'anno; competenza sistemata a fine esercizio
+- [x] Solo per cassa/registrazione durante l'anno; competenza sistemata a fine esercizio
 
 *Es.: ammortamenti solo a fine anno; 13ª/14ª non rateizzate; fatture da ricevere solo a dicembre — il conto economico infrannuale "balla".*
 
-> Risposta:
+> Risposta: la competenza viene sistemata solo a fine esercizio (chiusura "a fine anno").
 
 **D.4 — Come vengono gestite oggi le fatture da ricevere (FDR) in corso d'anno?**
 
 - [ ] Generate automaticamente dal ciclo passivo (ordini/entrata merci)
 - [ ] Raccolte manualmente dai reparti a fine mese
 - [ ] Stimate dal controller
-- [ ] Non gestite mensilmente
+- [x] Non gestite mensilmente
 
-> Note:
+> Note: coerente con D.3 — la competenza si sistema solo a fine esercizio, quindi le FDR non sono gestite mensilmente (da confermare).
 
 **D.5 — Tempi di chiusura attuali: quanti giorni lavorativi dopo la fine del mese servono per avere un conto economico attendibile? E per il report ai responsabili (se esiste)?**
 *Es.: bilancino di verifica al giorno 15; report per la direzione verso il 20-25 del mese successivo.*
 
-> Risposta:
+> Risposta: oltre 20 giorni lavorativi; di fatto un conto economico attendibile per centro di costo è disponibile solo a fine anno (vedi D.3). Nessun report periodico ai responsabili oggi (vedi G.1/G.5).
 
 **D.6 — Il costo del personale mensile arriva in tempo utile per la chiusura? Da chi e in che forma?**
 
 - [ ] Sì, dal payroll interno entro i primi giorni del mese
 - [ ] Sì, dal consulente del lavoro, ma con dettaglio insufficiente (no CdC)
 - [ ] No, arriva tardi: servirebbe un costo standard con conguaglio
-- [ ] Altro: ______
+- [x] Altro: il costo arriva ma viene registrato in contabilità con ritardo
 
-> Note:
+> Note: da approfondire l'entità del ritardo e se sia legato al fornitore payroll o al processo di registrazione interno.
 
 **D.7 — Magazzino e WIP: esiste una valorizzazione mensile con cut-off affidabile su bolle e movimenti?**
 
-> Risposta:
+> Risposta: presumibilmente N/A — attività di servizi socioculturali, non manifatturiera, senza magazzino/WIP significativo (da confermare).
 
 ---
 
@@ -248,62 +248,62 @@ Versione, da quanti anni è in uso, eventuale migrazione pianificata:
 **E.1 — Quanti centri di costo esistono attualmente in anagrafica? Quanti sono effettivamente movimentati?**
 *Es.: 340 in anagrafica, ma circa 60 sono dismessi o mai usati.*
 
-> Risposta:
+> Risposta: da verificare
 
 **E.2 — Come sono codificati i CdC?**
 
 - [ ] Codice "parlante" (il codice incorpora sede/funzione/reparto) — *es.: BG-PRO-STAMP-01*
 - [ ] Codice neutro/progressivo — *es.: C0142*
 - [ ] Semi-parlante (prefisso di tipologia + progressivo) — *es.: P012 produttivo, A003 ausiliario, come nello schema proposto in [piano-centri-di-costo.md, sez. 3](../02-dati/piano-centri-di-costo.md)*
-- [ ] Codifiche diverse convivono (descrivere)
+- [x] Codifiche diverse convivono (descrivere)
 
 Allegare o incollare un estratto dell'anagrafica attuale (10-15 righe rappresentative).
 
-> Risposta:
+> Risposta: codice numerico progressivo + descrizione del servizio/sede, es. "104-biblioteca Martellago". Non rientra esattamente negli schemi standard proposti — da valutare in fase di progettazione del piano CdC (cfr. [piano-centri-di-costo.md](../02-dati/piano-centri-di-costo.md)).
 
 **E.3 — Esiste una gerarchia dei CdC (albero: azienda → direzione → area → reparto → centro)? Su quanti livelli? Dove è mantenuta (ERP, Excel, da nessuna parte)?**
 
-> Risposta:
+> Risposta: da verificare
 
 **E.4 — I CdC sono classificati per tipologia?**
 
 - [ ] Sì, distinguiamo produttivi / ausiliari (servizi interni) / struttura / virtuali-tecnici
 - [ ] In parte: la distinzione esiste "in testa" al controller ma non in anagrafica
-- [ ] No
+- [x] No
 
-Indicare la numerosità approssimativa per tipologia:
+Indicare la numerosità approssimativa per tipologia (N/A per una cooperativa di servizi: la tipologia andrà ridefinita, es. servizi diretti agli utenti / funzioni di supporto interno / struttura direzionale):
 
 | Tipologia | Numero CdC (circa) | Esempi |
 |---|---|---|
-| Produttivi | | *linee di stampaggio, reparto montaggio* |
-| Ausiliari / di servizio | | *manutenzione, utilities, magazzino interno, qualità* |
-| Di struttura | | *direzione, AFC, HR, IT* |
-| Virtuali / tecnici / progetti | | *centro di raccolta costi comuni, commesse interne* |
+| Servizi diretti (es. produttivi/di erogazione) | da verificare | *es. biblioteca Martellago, altri servizi per comune* |
+| Ausiliari / di servizio interno | da verificare | |
+| Di struttura | da verificare | *direzione, amministrazione* |
+| Virtuali / tecnici / progetti | da verificare | |
 
 **E.5 — Qualità delle imputazioni: quanto vi fidate dei costi oggi attribuiti ai CdC?**
 
 - [ ] Alta: le imputazioni sono sistematiche e controllate
-- [ ] Media: alcune nature (es. utenze, manutenzioni) finiscono su centri generici
+- [x] Media: alcune nature (es. utenze, manutenzioni) finiscono su centri generici
 - [ ] Bassa: molti costi finiscono su un CdC "calderone" e vengono spalmati dopo
 
 Quali sono le imputazioni più problematiche e perché?
 *Es.: le utenze arrivano con un'unica fattura per stabilimento e nessuno le ripartisce; i materiali di consumo vanno tutti sul CdC magazzino.*
 
-> Risposta:
+> Risposta: da verificare (fiducia media, dettaglio delle voci problematiche da approfondire).
 
 **E.6 — Esistono già ribaltamenti dei centri ausiliari/di struttura sui centri finali? Con che metodo e che driver?**
 
 - [ ] Sì, nell'ERP (descrivere regole e driver)
 - [ ] Sì, in Excel (descrivere)
-- [ ] No, i costi restano sui centri di origine
+- [x] No, i costi restano sui centri di origine
 
 *Es.: la manutenzione viene ribaltata sui reparti in proporzione alle ore intervento registrate; i costi IT spalmati per numero PC.*
 
-> Risposta:
+> Risposta: nessun ribaltamento oggi esistente.
 
 **E.7 — Regole di gestione dell'anagrafica: chi può aprire/chiudere un CdC oggi? I codici dismessi vengono riciclati?**
 
-> Risposta:
+> Risposta: da verificare
 
 **E.8 — Quali driver di allocazione sono già misurati e disponibili ogni mese?** (marcare quelli disponibili)
 
@@ -315,9 +315,9 @@ Quali sono le imputazioni più problematiche e perché?
 - [ ] Righe d'ordine / spedizioni
 - [ ] Consumi rilevati (contatori energia, ecc.)
 - [ ] Altro: ______
-- [ ] Nessuno in modo sistematico
+- [x] Nessuno in modo sistematico
 
-> Note (fonte e affidabilità di ciascun driver):
+> Note (fonte e affidabilità di ciascun driver): nessun driver di allocazione misurato oggi in modo sistematico — punto critico da colmare per abilitare eventuali ribaltamenti futuri.
 
 ---
 
@@ -325,12 +325,12 @@ Quali sono le imputazioni più problematiche e perché?
 
 **F.1 — Esiste un budget economico annuale?**
 
-- [ ] Sì, per centro di costo
+- [x] Sì, per centro di costo
 - [ ] Sì, ma solo per natura di costo / voce di bilancio (non per CdC)
 - [ ] Sì, solo a livello aziendale complessivo
 - [ ] No
 
-> Note:
+> Note: esistono i "budget di gara" per CdC (presentati in fase di partecipazione al bando), ma sono di difficile reperimento, senza uno standard univoco, e con struttura diversa da quella che esce dal gestionale — **oggi non utilizzabili per il confronto actual vs budget**. Punto critico centrale del progetto.
 
 **F.2 — Se esiste un budget per CdC: con che granularità temporale e di voce?**
 
@@ -340,31 +340,31 @@ Quali sono le imputazioni più problematiche e perché?
 
 *Es.: budget annuale per CdC e natura, diviso in dodicesimi tranne energia e premi, mensilizzati a mano.*
 
-> Risposta:
+> Risposta: da verificare (dipende dal singolo budget di gara)
 
 **F.3 — Come viene costruito il budget? Chi partecipa e in quanto tempo?**
 *Es.: il controller propone i numeri partendo dall'anno precedente; i responsabili di stabilimento negoziano a novembre; approvazione CdA a dicembre.*
 
-> Risposta:
+> Risposta: da verificare — presumibilmente costruito in fase di partecipazione alla gara/bando, non con un processo di budgeting periodico interno.
 
 **F.4 — Esistono revisioni infrannuali (forecast)?**
 
 - [ ] Sì, rolling forecast su orizzonte 12+ mesi
 - [ ] Sì, forecast a finire anno (es. 3+9, 6+6, 9+3)
-- [ ] Solo revisioni informali/occasionali
+- [x] Solo revisioni informali/occasionali
 - [ ] No
 
 Frequenza e livello di dettaglio:
 
-> Risposta:
+> Risposta: sì, ma gestite da una società esterna a livello complessivo (non per singolo centro di costo).
 
 **F.5 — Il budget viene ribaltato con le stesse regole dell'actual (per rendere omogeneo il confronto), o i ribaltamenti si fanno solo sul consuntivo?**
 
-> Risposta:
+> Risposta: N/A — non esistono ribaltamenti oggi né su actual né su budget (vedi E.6).
 
 **F.6 — Esistono costi standard (es. costo orario di trasformazione, distinte base valorizzate) usati nel budget o nella valorizzazione della produzione?**
 
-> Risposta:
+> Risposta: da verificare (es. costo orario standard per tipologia di operatore/servizio nei budget di gara)
 
 ---
 
@@ -373,13 +373,13 @@ Frequenza e livello di dettaglio:
 **G.1 — Descrivere il processo mensile attuale: chi fa cosa, in che sequenza, con che strumenti.**
 *Es.: l'amministrazione chiude la Co.Ge. entro il 12; il controller estrae i movimenti, li rielabora in 4 file Excel collegati, produce il report direzionale entro il 22.*
 
-> Risposta:
+> Risposta: nessun processo di reporting periodico strutturato oggi in essere.
 
 **G.2 — Quante persone lavorano al reporting mensile e quante ore/persona assorbe?**
 
 | Persona/ruolo | Attività | Ore stimate/mese |
 |---|---|---|
-| | | |
+| da verificare | | |
 | | | |
 
 **G.3 — Quali report escono oggi ogni mese? Compilare la tabella (una riga per report). Allegare un esempio di ciascuno (anche anonimizzato).**
@@ -387,7 +387,7 @@ Frequenza e livello di dettaglio:
 | Report | Contenuto | Destinatari | Strumento | Giorno di uscita |
 |---|---|---|---|---|
 | *Es.: CE direzionale* | *CE riclassificato actual vs budget* | *Imprenditore, CFO* | *Excel* | *WD15* |
-| | | | | |
+| da verificare | | | | |
 | | | | | |
 
 **G.4 — I confronti disponibili oggi nei report** (marcare ciò che esiste):
@@ -395,23 +395,23 @@ Frequenza e livello di dettaglio:
 - [ ] Actual vs budget — mese
 - [ ] Actual vs budget — YTD (progressivo)
 - [ ] Actual vs forecast
-- [ ] Actual vs anno precedente
+- [x] Actual vs anno precedente
 - [ ] Proiezione full-year (stima a finire)
 - [ ] Trend ultimi 12 mesi
 - [ ] Nessuno di questi in modo strutturato
 
 **G.5 — I responsabili di CdC commentano gli scostamenti? Esistono soglie di rilevanza sopra le quali il commento è richiesto?**
 
-> Risposta:
+> Risposta: no, mai — nessun commento degli scostamenti oggi richiesto o effettuato.
 
 **G.6 — Esistono report "ombra": Excel personali che i responsabili tengono perché non si fidano (o non dispongono) del report ufficiale?**
 *Es.: il direttore di stabilimento tiene un proprio file di controllo ore e consumi che non quadra mai con l'ufficiale.*
 
-> Risposta:
+> Risposta: da verificare
 
 **G.7 — Come vengono distribuiti i report (email, cartella condivisa, stampa, strumento BI)? Chi controlla che i numeri quadrino con la contabilità prima dell'invio?**
 
-> Risposta:
+> Risposta: da verificare
 
 ---
 
@@ -420,16 +420,16 @@ Frequenza e livello di dettaglio:
 **H.1 — Quali sono i 3-5 problemi principali del controllo di gestione oggi? (essere concreti)**
 *Es.: il report arriva il 25 del mese quando ormai non serve; nessuno si fida dei costi per centro; il controller passa 5 giorni a copiare-incollare; i ribaltamenti non sono ricostruibili.*
 
-> 1.
-> 2.
-> 3.
-> 4.
-> 5.
+> 1. I budget di gara per CdC sono difficili da reperire, non hanno uno standard univoco e non sono comparabili con la struttura dati che esce dal gestionale.
+> 2. La chiusura contabile per competenza avviene solo a fine anno: non esiste un conto economico infrannuale attendibile per CdC.
+> 3. Nessun report periodico ai responsabili di servizio: gli scostamenti non vengono mai commentati.
+> 4. Nessun driver di allocazione misurato sistematicamente, quindi nessun ribaltamento dei costi di struttura sui servizi.
+> 5. I responsabili sono poco abituati a ragionare su budget/scostamenti — sarà una novità (change management necessario).
 
 **H.2 — Cosa deve assolutamente produrre questo progetto per essere considerato un successo tra 12 mesi? (max 3 risultati misurabili)**
 *Es.: reporting pack per CdC pubblicato entro WD5; azzeramento dei 4 Excel di rielaborazione; commenti dei responsabili sopra soglia in un unico strumento.*
 
-> 1.
+> 1. da verificare con l'imprenditore/direzione
 > 2.
 > 3.
 
@@ -437,26 +437,28 @@ Frequenza e livello di dettaglio:
 
 | Obiettivo | Priorità (1-6) |
 |---|---|
-| Velocità di chiusura (fast closing) | |
-| Affidabilità/quadratura dei numeri | |
-| Dettaglio per centro di costo e responsabile | |
-| Riduzione lavoro manuale del team AFC | |
-| Budget/forecast più strutturati | |
-| KPI operativi oltre ai costi | |
+| Velocità di chiusura (fast closing) | tutte ugualmente prioritarie |
+| Affidabilità/quadratura dei numeri | tutte ugualmente prioritarie |
+| Dettaglio per centro di costo e responsabile | tutte ugualmente prioritarie |
+| Riduzione lavoro manuale del team AFC | tutte ugualmente prioritarie |
+| Budget/forecast più strutturati | tutte ugualmente prioritarie |
+| KPI operativi oltre ai costi | tutte ugualmente prioritarie |
+
+> Nota: nessun ordinamento specifico indicato — tutti gli obiettivi sono considerati ugualmente rilevanti. Da rivedere con il team di progetto se serve stabilire una sequenza di implementazione.
 
 **H.4 — Vincoli di budget e tempi del progetto.**
 *Es.: budget massimo 30k€/anno tra strumenti e consulenza; primo risultato visibile atteso entro 3 mesi.*
 
-> Risposta:
+> Risposta: primo risultato visibile atteso entro **settembre 2026**. Vincoli di budget non ancora definiti — da verificare.
 
 **H.5 — Ci sono vincoli organizzativi (persone chiave poco disponibili, periodi da evitare, resistenze note)?**
 
-> Risposta:
+> Risposta: da verificare
 
 **H.6 — Cosa NON deve fare il progetto? (esclusioni esplicite di perimetro)**
 *Es.: non tocchiamo il processo di fatturazione attiva; la contabilità resta dal commercialista; niente cambio ERP.*
 
-> Risposta:
+> Risposta: da verificare
 
 ---
 
@@ -464,45 +466,45 @@ Frequenza e livello di dettaglio:
 
 **I.1 — Quali categorie di dati NON possono uscire dal perimetro aziendale?** (marcare)
 
-- [ ] Retribuzioni individuali / dati payroll nominativi
+- [x] Retribuzioni individuali / dati payroll nominativi
 - [ ] Dati anagrafici dei dipendenti (nomi, matricole)
 - [ ] Prezzi di acquisto / listini fornitori
 - [ ] Prezzi di vendita / marginalità per cliente
 - [ ] Dati di clienti e fornitori (anagrafiche)
-- [ ] Nessuna restrizione particolare oltre il buon senso
-- [ ] Altro: ______
+- [x] Nessuna restrizione particolare oltre il buon senso (per i dati economici aggregati)
+- [x] Altro: dati anagrafici di operatori/utenti dei servizi (es. minori, utenti fragili); dati economici dei bandi/clienti pubblici (importi di gara, marginalità per comune/commessa)
 
-> Note (ed eventuali tecniche accettate: pseudonimizzazione, aggregazione, dati per matricola senza nome):
+> Note (ed eventuali tecniche accettate: pseudonimizzazione, aggregazione, dati per matricola senza nome): i dati economici aggregati per centro di costo possono circolare liberamente; restano riservate le retribuzioni individuali, i dati anagrafici di operatori/utenti dei servizi e i dati economici sensibili legati ai bandi.
 
 **I.2 — Esiste una policy aziendale sull'uso di servizi cloud e di strumenti AI?**
 
 - [ ] Sì, formalizzata (allegare o riassumere i punti chiave)
-- [ ] No, ma ci sono orientamenti di fatto (descrivere)
+- [x] No, ma ci sono orientamenti di fatto (descrivere)
 - [ ] No, va definita nell'ambito del progetto
 
-> Risposta:
+> Risposta: nessuna policy formalizzata; orientamenti di fatto da esplicitare meglio nell'ambito del progetto.
 
 **I.3 — Dove possono risiedere i dati elaborati dalla pipeline?**
 
 - [ ] Solo su server/PC aziendali (on-premise)
 - [ ] Cloud accettato se in area UE
 - [ ] Cloud accettato senza vincoli geografici particolari
-- [ ] Da decidere con l'IT/il DPO
+- [x] Da decidere con l'IT/il DPO
 
-> Note:
+> Note: da chiarire con IT/DPO prima di scegliere l'infrastruttura della pipeline.
 
 **I.4 — È accettabile inviare dati economici (aggregati o di dettaglio) a un servizio AI esterno per l'elaborazione e la generazione dei commenti? A quali condizioni?**
 *Es.: sì per dati aggregati per CdC e natura; no per dati nominativi del personale; richiesto contratto con clausola di non-training.*
 
-> Risposta:
+> Risposta: sì, senza particolari restrizioni per i dati economici aggregati per centro di costo (coerente con I.1 — restano esclusi dati nominativi/payroll e dati sensibili legati ai bandi).
 
 **I.5 — Chi in azienda deve approvare le scelte su dati e strumenti (titolare, IT, DPO, consulente privacy)?**
 
-> Risposta:
+> Risposta: da verificare
 
 **I.6 — Requisiti di conservazione e tracciabilità: serve poter ricostruire i numeri pubblicati nei mesi passati (versioning di dati, regole di ribaltamento e forecast)? Per quanti anni?**
 
-> Risposta:
+> Risposta: da verificare
 
 ---
 
