@@ -1,0 +1,9 @@
+# Output e dati generati dalla pipeline (si rigenerano al volo, non si committano)
+pipeline/output/
+pipeline/dati_esempio/
+pipeline/dati_reali/
+
+# Python
+__pycache__/
+*.pyc
+.venv/

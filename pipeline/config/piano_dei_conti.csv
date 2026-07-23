@@ -1,0 +1,62 @@
+conto,descrizione,natura_costo,classe_cee
+6101,Acquisti materie prime,Materie prime,B6
+6102,Acquisti componenti e semilavorati,Materie prime,B6
+6103,Acquisti imballaggi,Materiali ausiliari,B6
+6104,Materiale di consumo produzione,Materiali ausiliari,B6
+6105,Utensileria e minuteria,Materiali ausiliari,B6
+6106,Carburanti e lubrificanti,Materiali ausiliari,B6
+6107,Cancelleria e stampati,Spese generali,B6
+6108,Dispositivi di protezione individuale,Materiali ausiliari,B6
+6109,Ricambi per manutenzione,Manutenzioni,B6
+6201,Energia elettrica,Utenze,B7
+6202,Gas metano,Utenze,B7
+6203,Acqua e depurazione,Utenze,B7
+6204,Manutenzioni esterne impianti e macchinari,Manutenzioni,B7
+6205,Manutenzioni esterne fabbricati,Manutenzioni,B7
+6206,Lavorazioni esterne conto terzi,Lavorazioni esterne,B7
+6207,Trasporti su acquisti,Trasporti,B7
+6208,Trasporti su vendite,Trasporti,B7
+6209,Consulenze tecniche,Consulenze,B7
+6210,Consulenze amministrative e fiscali,Consulenze,B7
+6211,Consulenze legali e notarili,Consulenze,B7
+6212,Servizi informatici e canoni cloud,Servizi IT,B7
+6213,Telefonia e connettivita,Servizi IT,B7
+6214,Pulizie industriali e civili,Servizi generali,B7
+6215,Vigilanza e portierato,Servizi generali,B7
+6216,Smaltimento rifiuti,Servizi generali,B7
+6217,Assicurazioni,Assicurazioni,B7
+6218,Viaggi e trasferte,Spese commerciali,B7
+6219,Provvigioni passive ad agenti,Spese commerciali,B7
+6220,Pubblicita e promozione,Spese commerciali,B7
+6221,Fiere ed eventi,Spese commerciali,B7
+6222,Formazione del personale,Formazione,B7
+6223,Mensa e buoni pasto,Servizi al personale,B7
+6224,Ricerca e selezione del personale,Servizi al personale,B7
+6225,Compensi amministratori e sindaci,Organi societari,B7
+6226,Revisione e certificazione bilancio,Organi societari,B7
+6301,Affitti passivi fabbricati,Godimento beni terzi,B8
+6302,Noleggio macchinari e attrezzature,Godimento beni terzi,B8
+6303,Noleggio autoveicoli,Godimento beni terzi,B8
+6304,Canoni leasing impianti,Godimento beni terzi,B8
+6305,Licenze software e canoni d'uso,Godimento beni terzi,B8
+6306,Royalties e brevetti,Godimento beni terzi,B8
+6401,Salari operai,Personale,B9
+6402,Stipendi impiegati e quadri,Personale,B9
+6403,Oneri sociali e contributi,Personale,B9
+6404,Trattamento di fine rapporto,Personale,B9
+6405,Lavoro somministrato,Personale,B9
+6406,Straordinari e maggiorazioni,Personale,B9
+6407,Premi e incentivi al personale,Personale,B9
+6501,Ammortamento fabbricati industriali,Ammortamenti,B10
+6502,Ammortamento impianti e macchinari,Ammortamenti,B10
+6503,Ammortamento attrezzature industriali,Ammortamenti,B10
+6504,Ammortamento hardware e macchine ufficio,Ammortamenti,B10
+6505,Ammortamento immobilizzazioni immateriali,Ammortamenti,B10
+6506,Svalutazione crediti commerciali,Ammortamenti,B10
+6701,Imposte e tasse locali (IMU/TARI),Oneri diversi,B14
+6702,Valori bollati e imposte indirette,Oneri diversi,B14
+6703,Quote associative e abbonamenti,Oneri diversi,B14
+6704,Omaggi e liberalita,Oneri diversi,B14
+6705,Sopravvenienze passive ordinarie,Oneri diversi,B14
+6706,Minusvalenze ordinarie da alienazioni,Oneri diversi,B14
+6707,Altri oneri di gestione,Oneri diversi,B14

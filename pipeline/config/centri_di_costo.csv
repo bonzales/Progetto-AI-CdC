@@ -1,0 +1,317 @@
+codice,descrizione,livello,codice_padre,classe,area,responsabile,driver_ribaltamento,attivo
+S1,Stabilimento di Verona,1,,produttivo,Stabilimento Verona,Fabio Russo,,SI
+S1-PRD,Reparti produttivi Verona,2,S1,produttivo,Stabilimento Verona,Marco Rinaldi,,SI
+S1-AUX,Servizi ausiliari di produzione Verona,2,S1,ausiliario,Stabilimento Verona,Stefano Marino,,SI
+S1-STR,Struttura di stabilimento Verona,2,S1,struttura,Stabilimento Verona,Elena Esposito,,SI
+S1-PRD-001,Tornitura CNC 01,3,S1-PRD,produttivo,Stabilimento Verona,Federica Russo,,SI
+S1-PRD-002,Tornitura CNC 02,3,S1-PRD,produttivo,Stabilimento Verona,Elisa Rinaldi,,SI
+S1-PRD-003,Tornitura CNC 03,3,S1-PRD,produttivo,Stabilimento Verona,Giovanni Lombardi,,SI
+S1-PRD-004,Tornitura CNC 04,3,S1-PRD,produttivo,Stabilimento Verona,Giulia Moretti,,SI
+S1-PRD-005,Tornitura CNC 05,3,S1-PRD,produttivo,Stabilimento Verona,Anna Bianchi,,SI
+S1-PRD-006,Tornitura CNC 06,3,S1-PRD,produttivo,Stabilimento Verona,Marco Ferrari,,SI
+S1-PRD-007,Tornitura CNC 07,3,S1-PRD,produttivo,Stabilimento Verona,Paolo Marino,,SI
+S1-PRD-008,Tornitura CNC 08,3,S1-PRD,produttivo,Stabilimento Verona,Alessandro Barbieri,,SI
+S1-PRD-009,Fresatura CNC 01,3,S1-PRD,produttivo,Stabilimento Verona,Marco Lombardi,,SI
+S1-PRD-010,Fresatura CNC 02,3,S1-PRD,produttivo,Stabilimento Verona,Paolo Mariani,,SI
+S1-PRD-011,Fresatura CNC 03,3,S1-PRD,produttivo,Stabilimento Verona,Fabio Mariani,,SI
+S1-PRD-012,Fresatura CNC 04,3,S1-PRD,produttivo,Stabilimento Verona,Valentina Costa,,SI
+S1-PRD-013,Fresatura CNC 05,3,S1-PRD,produttivo,Stabilimento Verona,Elena Giordano,,SI
+S1-PRD-014,Fresatura CNC 06,3,S1-PRD,produttivo,Stabilimento Verona,Giorgio Greco,,SI
+S1-PRD-015,Rettifica 01,3,S1-PRD,produttivo,Stabilimento Verona,Cristina Martini,,SI
+S1-PRD-016,Rettifica 02,3,S1-PRD,produttivo,Stabilimento Verona,Marco Caruso,,SI
+S1-PRD-017,Rettifica 03,3,S1-PRD,produttivo,Stabilimento Verona,Cristina Colombo,,SI
+S1-PRD-018,Rettifica 04,3,S1-PRD,produttivo,Stabilimento Verona,Simone Costa,,SI
+S1-PRD-019,Stampaggio lamiera 01,3,S1-PRD,produttivo,Stabilimento Verona,Davide Greco,,SI
+S1-PRD-020,Stampaggio lamiera 02,3,S1-PRD,produttivo,Stabilimento Verona,Francesca Ricci,,SI
+S1-PRD-021,Stampaggio lamiera 03,3,S1-PRD,produttivo,Stabilimento Verona,Nicola Gallo,,SI
+S1-PRD-022,Stampaggio lamiera 04,3,S1-PRD,produttivo,Stabilimento Verona,Andrea Ferrari,,SI
+S1-PRD-023,Stampaggio lamiera 05,3,S1-PRD,produttivo,Stabilimento Verona,Matteo Russo,,SI
+S1-PRD-024,Saldatura 01,3,S1-PRD,produttivo,Stabilimento Verona,Silvia Martini,,SI
+S1-PRD-025,Saldatura 02,3,S1-PRD,produttivo,Stabilimento Verona,Silvia Barbieri,,SI
+S1-PRD-026,Saldatura 03,3,S1-PRD,produttivo,Stabilimento Verona,Stefano Ferrara,,SI
+S1-PRD-027,Saldatura 04,3,S1-PRD,produttivo,Stabilimento Verona,Laura Rinaldi,,SI
+S1-PRD-028,Saldatura 05,3,S1-PRD,produttivo,Stabilimento Verona,Roberto Lombardi,,SI
+S1-PRD-029,Saldatura 06,3,S1-PRD,produttivo,Stabilimento Verona,Andrea Longo,,SI
+S1-PRD-030,Trattamenti termici 01,3,S1-PRD,produttivo,Stabilimento Verona,Matteo Ferrari,,SI
+S1-PRD-031,Trattamenti termici 02,3,S1-PRD,produttivo,Stabilimento Verona,Valentina Bruno,,SI
+S1-PRD-032,Trattamenti termici 03,3,S1-PRD,produttivo,Stabilimento Verona,Antonio Fontana,,SI
+S1-PRD-033,Verniciatura 01,3,S1-PRD,produttivo,Stabilimento Verona,Martina Leone,,SI
+S1-PRD-034,Verniciatura 02,3,S1-PRD,produttivo,Stabilimento Verona,Monica Conti,,SI
+S1-PRD-035,Verniciatura 03,3,S1-PRD,produttivo,Stabilimento Verona,Giorgio Ricci,,SI
+S1-PRD-036,Assemblaggio meccanico 01,3,S1-PRD,produttivo,Stabilimento Verona,Simone Ferrari,,SI
+S1-PRD-037,Assemblaggio meccanico 02,3,S1-PRD,produttivo,Stabilimento Verona,Laura Santoro,,SI
+S1-PRD-038,Assemblaggio meccanico 03,3,S1-PRD,produttivo,Stabilimento Verona,Elena Caruso,,SI
+S1-PRD-039,Assemblaggio meccanico 04,3,S1-PRD,produttivo,Stabilimento Verona,Chiara Ferrari,,SI
+S1-PRD-040,Assemblaggio meccanico 05,3,S1-PRD,produttivo,Stabilimento Verona,Monica Marino,,SI
+S1-PRD-041,Assemblaggio meccanico 06,3,S1-PRD,produttivo,Stabilimento Verona,Monica Russo,,SI
+S1-PRD-042,Assemblaggio meccanico 07,3,S1-PRD,produttivo,Stabilimento Verona,Matteo Greco,,SI
+S1-PRD-043,Collaudo linee 01,3,S1-PRD,produttivo,Stabilimento Verona,Roberto Fontana,,SI
+S1-PRD-044,Collaudo linee 02,3,S1-PRD,produttivo,Stabilimento Verona,Antonio Conti,,SI
+S1-PRD-045,Collaudo linee 03,3,S1-PRD,produttivo,Stabilimento Verona,Luca Conti,,SI
+S1-AUX-001,Manutenzione meccanica,3,S1-AUX,ausiliario,Stabilimento Verona,Silvia Ricci,ore_intervento,SI
+S1-AUX-002,Manutenzione elettrica,3,S1-AUX,ausiliario,Stabilimento Verona,Elisa Greco,ore_intervento,SI
+S1-AUX-003,Attrezzeria e utensileria,3,S1-AUX,ausiliario,Stabilimento Verona,Simone Longo,ore_intervento,SI
+S1-AUX-004,Magazzino materie prime,3,S1-AUX,ausiliario,Stabilimento Verona,Elisa Fontana,n_movimentazioni,SI
+S1-AUX-005,Magazzino prodotti finiti,3,S1-AUX,ausiliario,Stabilimento Verona,Giulia Barbieri,n_movimentazioni,SI
+S1-AUX-006,Logistica interna,3,S1-AUX,ausiliario,Stabilimento Verona,Fabio Colombo,n_movimentazioni,SI
+S1-AUX-007,Pianificazione produzione,3,S1-AUX,ausiliario,Stabilimento Verona,Valentina Rinaldi,ore_produzione,SI
+S1-AUX-008,Ufficio tecnico di stabilimento,3,S1-AUX,ausiliario,Stabilimento Verona,Elena Colombo,ore_produzione,SI
+S1-AUX-009,Controllo qualità,3,S1-AUX,ausiliario,Stabilimento Verona,Roberto De Luca,ore_produzione,SI
+S1-AUX-010,Metrologia e sala prove,3,S1-AUX,ausiliario,Stabilimento Verona,Stefano Longo,ore_produzione,SI
+S1-AUX-011,Centrale termica e utilities,3,S1-AUX,ausiliario,Stabilimento Verona,Fabio Mariani,consumo_kwh,SI
+S1-AUX-012,Sicurezza e ambiente,3,S1-AUX,ausiliario,Stabilimento Verona,Valentina Marino,headcount,SI
+S1-AUX-013,Mensa di stabilimento,3,S1-AUX,ausiliario,Stabilimento Verona,Elisa Gallo,headcount,SI
+S1-AUX-014,Servizi generali di stabilimento,3,S1-AUX,ausiliario,Stabilimento Verona,Antonio Caruso,headcount,SI
+S1-STR-001,Direzione di stabilimento,3,S1-STR,struttura,Stabilimento Verona,Nicola Bianchi,costi_diretti,SI
+S1-STR-002,Amministrazione di stabilimento,3,S1-STR,struttura,Stabilimento Verona,Elena Galli,costi_diretti,SI
+S1-STR-003,Gestione personale di stabilimento,3,S1-STR,struttura,Stabilimento Verona,Laura Ferrara,headcount,SI
+S1-STR-004,Portineria e vigilanza,3,S1-STR,struttura,Stabilimento Verona,Davide De Luca,headcount,SI
+S1-STR-005,Infermeria e presidio sanitario,3,S1-STR,struttura,Stabilimento Verona,Stefano Ferrari,headcount,SI
+S1-STR-006,Pulizie e facchinaggio,3,S1-STR,struttura,Stabilimento Verona,Paolo Longo,mq_occupati,SI
+S1-STR-007,Reception e centralino,3,S1-STR,struttura,Stabilimento Verona,Giorgio Leone,headcount,SI
+S2,Stabilimento di Bergamo,1,,produttivo,Stabilimento Bergamo,Simone Gallo,,SI
+S2-PRD,Reparti produttivi Bergamo,2,S2,produttivo,Stabilimento Bergamo,Paolo Fontana,,SI
+S2-AUX,Servizi ausiliari di produzione Bergamo,2,S2,ausiliario,Stabilimento Bergamo,Sara De Luca,,SI
+S2-STR,Struttura di stabilimento Bergamo,2,S2,struttura,Stabilimento Bergamo,Giovanni Longo,,SI
+S2-PRD-001,Pressofusione 01,3,S2-PRD,produttivo,Stabilimento Bergamo,Fabio Giordano,,SI
+S2-PRD-002,Pressofusione 02,3,S2-PRD,produttivo,Stabilimento Bergamo,Francesca Greco,,SI
+S2-PRD-003,Pressofusione 03,3,S2-PRD,produttivo,Stabilimento Bergamo,Francesca Marino,,SI
+S2-PRD-004,Pressofusione 04,3,S2-PRD,produttivo,Stabilimento Bergamo,Federica Lombardi,,SI
+S2-PRD-005,Pressofusione 05,3,S2-PRD,produttivo,Stabilimento Bergamo,Valentina Greco,,SI
+S2-PRD-006,Pressofusione 06,3,S2-PRD,produttivo,Stabilimento Bergamo,Federica Moretti,,SI
+S2-PRD-007,Stampaggio plastica 01,3,S2-PRD,produttivo,Stabilimento Bergamo,Anna Leone,,SI
+S2-PRD-008,Stampaggio plastica 02,3,S2-PRD,produttivo,Stabilimento Bergamo,Giorgio De Luca,,SI
+S2-PRD-009,Stampaggio plastica 03,3,S2-PRD,produttivo,Stabilimento Bergamo,Silvia Marino,,SI
+S2-PRD-010,Stampaggio plastica 04,3,S2-PRD,produttivo,Stabilimento Bergamo,Francesca Rizzo,,SI
+S2-PRD-011,Stampaggio plastica 05,3,S2-PRD,produttivo,Stabilimento Bergamo,Sara Ferrari,,SI
+S2-PRD-012,Stampaggio plastica 06,3,S2-PRD,produttivo,Stabilimento Bergamo,Nicola Bianchi,,SI
+S2-PRD-013,Lavorazioni meccaniche 01,3,S2-PRD,produttivo,Stabilimento Bergamo,Monica Russo,,SI
+S2-PRD-014,Lavorazioni meccaniche 02,3,S2-PRD,produttivo,Stabilimento Bergamo,Francesca Fontana,,SI
+S2-PRD-015,Lavorazioni meccaniche 03,3,S2-PRD,produttivo,Stabilimento Bergamo,Luca Ferrara,,SI
+S2-PRD-016,Lavorazioni meccaniche 04,3,S2-PRD,produttivo,Stabilimento Bergamo,Elisa Costa,,SI
+S2-PRD-017,Lavorazioni meccaniche 05,3,S2-PRD,produttivo,Stabilimento Bergamo,Martina Ferrari,,SI
+S2-PRD-018,Lavorazioni meccaniche 06,3,S2-PRD,produttivo,Stabilimento Bergamo,Matteo De Luca,,SI
+S2-PRD-019,Lavorazioni meccaniche 07,3,S2-PRD,produttivo,Stabilimento Bergamo,Martina Giordano,,SI
+S2-PRD-020,Lavorazioni meccaniche 08,3,S2-PRD,produttivo,Stabilimento Bergamo,Alessandro Greco,,SI
+S2-PRD-021,Assemblaggio elettromeccanico 01,3,S2-PRD,produttivo,Stabilimento Bergamo,Valentina Martini,,SI
+S2-PRD-022,Assemblaggio elettromeccanico 02,3,S2-PRD,produttivo,Stabilimento Bergamo,Marco Santoro,,SI
+S2-PRD-023,Assemblaggio elettromeccanico 03,3,S2-PRD,produttivo,Stabilimento Bergamo,Federica Russo,,SI
+S2-PRD-024,Assemblaggio elettromeccanico 04,3,S2-PRD,produttivo,Stabilimento Bergamo,Elisa Leone,,SI
+S2-PRD-025,Assemblaggio elettromeccanico 05,3,S2-PRD,produttivo,Stabilimento Bergamo,Valentina Caruso,,SI
+S2-PRD-026,Assemblaggio elettromeccanico 06,3,S2-PRD,produttivo,Stabilimento Bergamo,Stefano Caruso,,SI
+S2-PRD-027,Assemblaggio elettromeccanico 07,3,S2-PRD,produttivo,Stabilimento Bergamo,Fabio Gallo,,SI
+S2-PRD-028,Assemblaggio elettromeccanico 08,3,S2-PRD,produttivo,Stabilimento Bergamo,Andrea Bruno,,SI
+S2-PRD-029,Avvolgimento motori 01,3,S2-PRD,produttivo,Stabilimento Bergamo,Anna Colombo,,SI
+S2-PRD-030,Avvolgimento motori 02,3,S2-PRD,produttivo,Stabilimento Bergamo,Roberto Rossi,,SI
+S2-PRD-031,Avvolgimento motori 03,3,S2-PRD,produttivo,Stabilimento Bergamo,Federica Leone,,SI
+S2-PRD-032,Avvolgimento motori 04,3,S2-PRD,produttivo,Stabilimento Bergamo,Federica Greco,,SI
+S2-PRD-033,Avvolgimento motori 05,3,S2-PRD,produttivo,Stabilimento Bergamo,Alessandro Caruso,,SI
+S2-PRD-034,Collaudo 01,3,S2-PRD,produttivo,Stabilimento Bergamo,Luca Rizzo,,SI
+S2-PRD-035,Collaudo 02,3,S2-PRD,produttivo,Stabilimento Bergamo,Paola Russo,,SI
+S2-PRD-036,Collaudo 03,3,S2-PRD,produttivo,Stabilimento Bergamo,Monica Fontana,,SI
+S2-PRD-037,Collaudo 04,3,S2-PRD,produttivo,Stabilimento Bergamo,Chiara Galli,,SI
+S2-PRD-038,Confezionamento 01,3,S2-PRD,produttivo,Stabilimento Bergamo,Fabio Rizzo,,SI
+S2-PRD-039,Confezionamento 02,3,S2-PRD,produttivo,Stabilimento Bergamo,Martina Ricci,,SI
+S2-PRD-040,Confezionamento 03,3,S2-PRD,produttivo,Stabilimento Bergamo,Francesca Conti,,NO
+S2-AUX-001,Manutenzione meccanica,3,S2-AUX,ausiliario,Stabilimento Bergamo,Nicola Colombo,ore_intervento,SI
+S2-AUX-002,Manutenzione elettrica,3,S2-AUX,ausiliario,Stabilimento Bergamo,Valentina Caruso,ore_intervento,SI
+S2-AUX-003,Attrezzeria e utensileria,3,S2-AUX,ausiliario,Stabilimento Bergamo,Paola Rizzo,ore_intervento,SI
+S2-AUX-004,Magazzino materie prime,3,S2-AUX,ausiliario,Stabilimento Bergamo,Paola Rossi,n_movimentazioni,SI
+S2-AUX-005,Magazzino prodotti finiti,3,S2-AUX,ausiliario,Stabilimento Bergamo,Martina Gallo,n_movimentazioni,SI
+S2-AUX-006,Logistica interna,3,S2-AUX,ausiliario,Stabilimento Bergamo,Sara Rossi,n_movimentazioni,SI
+S2-AUX-007,Pianificazione produzione,3,S2-AUX,ausiliario,Stabilimento Bergamo,Andrea Longo,ore_produzione,SI
+S2-AUX-008,Ufficio tecnico di stabilimento,3,S2-AUX,ausiliario,Stabilimento Bergamo,Silvia Leone,ore_produzione,SI
+S2-AUX-009,Controllo qualità,3,S2-AUX,ausiliario,Stabilimento Bergamo,Antonio Ferrara,ore_produzione,SI
+S2-AUX-010,Metrologia e sala prove,3,S2-AUX,ausiliario,Stabilimento Bergamo,Chiara Marino,ore_produzione,SI
+S2-AUX-011,Centrale termica e utilities,3,S2-AUX,ausiliario,Stabilimento Bergamo,Laura Marino,consumo_kwh,SI
+S2-AUX-012,Sicurezza e ambiente,3,S2-AUX,ausiliario,Stabilimento Bergamo,Giovanni Moretti,headcount,SI
+S2-STR-001,Direzione di stabilimento,3,S2-STR,struttura,Stabilimento Bergamo,Giulia Ferrari,costi_diretti,SI
+S2-STR-002,Amministrazione di stabilimento,3,S2-STR,struttura,Stabilimento Bergamo,Federica Mancini,costi_diretti,SI
+S2-STR-003,Gestione personale di stabilimento,3,S2-STR,struttura,Stabilimento Bergamo,Antonio Ferrari,headcount,SI
+S2-STR-004,Portineria e vigilanza,3,S2-STR,struttura,Stabilimento Bergamo,Nicola Lombardi,headcount,SI
+S2-STR-005,Infermeria e presidio sanitario,3,S2-STR,struttura,Stabilimento Bergamo,Nicola Esposito,headcount,SI
+S2-STR-006,Pulizie e facchinaggio,3,S2-STR,struttura,Stabilimento Bergamo,Francesca Santoro,mq_occupati,SI
+S3,Stabilimento di Bari,1,,produttivo,Stabilimento Bari,Sara Lombardi,,SI
+S3-PRD,Reparti produttivi Bari,2,S3,produttivo,Stabilimento Bari,Luca Greco,,SI
+S3-AUX,Servizi ausiliari di produzione Bari,2,S3,ausiliario,Stabilimento Bari,Alessandro Martini,,SI
+S3-STR,Struttura di stabilimento Bari,2,S3,struttura,Stabilimento Bari,Martina Costa,,SI
+S3-PRD-001,Carpenteria pesante 01,3,S3-PRD,produttivo,Stabilimento Bari,Paolo Longo,,SI
+S3-PRD-002,Carpenteria pesante 02,3,S3-PRD,produttivo,Stabilimento Bari,Valentina Caruso,,SI
+S3-PRD-003,Carpenteria pesante 03,3,S3-PRD,produttivo,Stabilimento Bari,Federica Mariani,,SI
+S3-PRD-004,Carpenteria pesante 04,3,S3-PRD,produttivo,Stabilimento Bari,Paolo Mariani,,SI
+S3-PRD-005,Carpenteria pesante 05,3,S3-PRD,produttivo,Stabilimento Bari,Chiara De Luca,,SI
+S3-PRD-006,Carpenteria pesante 06,3,S3-PRD,produttivo,Stabilimento Bari,Elisa Fontana,,SI
+S3-PRD-007,Taglio laser 01,3,S3-PRD,produttivo,Stabilimento Bari,Silvia Giordano,,SI
+S3-PRD-008,Taglio laser 02,3,S3-PRD,produttivo,Stabilimento Bari,Giovanni Rizzo,,SI
+S3-PRD-009,Taglio laser 03,3,S3-PRD,produttivo,Stabilimento Bari,Roberto Russo,,SI
+S3-PRD-010,Taglio laser 04,3,S3-PRD,produttivo,Stabilimento Bari,Elena Marino,,SI
+S3-PRD-011,Piegatura 01,3,S3-PRD,produttivo,Stabilimento Bari,Giulia Gallo,,SI
+S3-PRD-012,Piegatura 02,3,S3-PRD,produttivo,Stabilimento Bari,Marco Moretti,,SI
+S3-PRD-013,Piegatura 03,3,S3-PRD,produttivo,Stabilimento Bari,Valentina Marino,,SI
+S3-PRD-014,Piegatura 04,3,S3-PRD,produttivo,Stabilimento Bari,Giorgio Marino,,SI
+S3-PRD-015,Saldatura robotizzata 01,3,S3-PRD,produttivo,Stabilimento Bari,Marco Ferrari,,SI
+S3-PRD-016,Saldatura robotizzata 02,3,S3-PRD,produttivo,Stabilimento Bari,Simone Fontana,,SI
+S3-PRD-017,Saldatura robotizzata 03,3,S3-PRD,produttivo,Stabilimento Bari,Laura Marino,,SI
+S3-PRD-018,Saldatura robotizzata 04,3,S3-PRD,produttivo,Stabilimento Bari,Giulia Leone,,SI
+S3-PRD-019,Saldatura robotizzata 05,3,S3-PRD,produttivo,Stabilimento Bari,Laura Martini,,SI
+S3-PRD-020,Saldatura robotizzata 06,3,S3-PRD,produttivo,Stabilimento Bari,Davide Ferrari,,SI
+S3-PRD-021,Montaggio gruppi 01,3,S3-PRD,produttivo,Stabilimento Bari,Alessandro Marino,,SI
+S3-PRD-022,Montaggio gruppi 02,3,S3-PRD,produttivo,Stabilimento Bari,Stefano Santoro,,SI
+S3-PRD-023,Montaggio gruppi 03,3,S3-PRD,produttivo,Stabilimento Bari,Sara Ricci,,SI
+S3-PRD-024,Montaggio gruppi 04,3,S3-PRD,produttivo,Stabilimento Bari,Valentina Esposito,,SI
+S3-PRD-025,Montaggio gruppi 05,3,S3-PRD,produttivo,Stabilimento Bari,Federica Longo,,SI
+S3-PRD-026,Montaggio gruppi 06,3,S3-PRD,produttivo,Stabilimento Bari,Giovanni Moretti,,SI
+S3-PRD-027,Montaggio gruppi 07,3,S3-PRD,produttivo,Stabilimento Bari,Giorgio Mancini,,SI
+S3-PRD-028,Montaggio gruppi 08,3,S3-PRD,produttivo,Stabilimento Bari,Elena Ferrara,,SI
+S3-PRD-029,Verniciatura industriale 01,3,S3-PRD,produttivo,Stabilimento Bari,Sara Ferrara,,SI
+S3-PRD-030,Verniciatura industriale 02,3,S3-PRD,produttivo,Stabilimento Bari,Anna Ricci,,SI
+S3-PRD-031,Verniciatura industriale 03,3,S3-PRD,produttivo,Stabilimento Bari,Andrea Russo,,SI
+S3-PRD-032,Collaudo finale 01,3,S3-PRD,produttivo,Stabilimento Bari,Elisa Costa,,SI
+S3-PRD-033,Collaudo finale 02,3,S3-PRD,produttivo,Stabilimento Bari,Silvia Costa,,SI
+S3-PRD-034,Collaudo finale 03,3,S3-PRD,produttivo,Stabilimento Bari,Anna Giordano,,NO
+S3-AUX-001,Manutenzione meccanica,3,S3-AUX,ausiliario,Stabilimento Bari,Monica Rinaldi,ore_intervento,SI
+S3-AUX-002,Manutenzione elettrica,3,S3-AUX,ausiliario,Stabilimento Bari,Laura Santoro,ore_intervento,SI
+S3-AUX-003,Attrezzeria e utensileria,3,S3-AUX,ausiliario,Stabilimento Bari,Fabio Fontana,ore_intervento,SI
+S3-AUX-004,Magazzino materie prime,3,S3-AUX,ausiliario,Stabilimento Bari,Andrea Bianchi,n_movimentazioni,SI
+S3-AUX-005,Magazzino prodotti finiti,3,S3-AUX,ausiliario,Stabilimento Bari,Matteo Rinaldi,n_movimentazioni,SI
+S3-AUX-006,Logistica interna,3,S3-AUX,ausiliario,Stabilimento Bari,Davide Ferrara,n_movimentazioni,SI
+S3-AUX-007,Pianificazione produzione,3,S3-AUX,ausiliario,Stabilimento Bari,Monica Russo,ore_produzione,SI
+S3-AUX-008,Ufficio tecnico di stabilimento,3,S3-AUX,ausiliario,Stabilimento Bari,Elena Ricci,ore_produzione,SI
+S3-AUX-009,Controllo qualità,3,S3-AUX,ausiliario,Stabilimento Bari,Paolo Lombardi,ore_produzione,SI
+S3-AUX-010,Metrologia e sala prove,3,S3-AUX,ausiliario,Stabilimento Bari,Roberto Esposito,ore_produzione,SI
+S3-AUX-011,Centrale termica e utilities,3,S3-AUX,ausiliario,Stabilimento Bari,Anna Colombo,consumo_kwh,SI
+S3-STR-001,Direzione di stabilimento,3,S3-STR,struttura,Stabilimento Bari,Stefano Giordano,costi_diretti,SI
+S3-STR-002,Amministrazione di stabilimento,3,S3-STR,struttura,Stabilimento Bari,Elena Martini,costi_diretti,SI
+S3-STR-003,Gestione personale di stabilimento,3,S3-STR,struttura,Stabilimento Bari,Paola Ferrari,headcount,SI
+S3-STR-004,Portineria e vigilanza,3,S3-STR,struttura,Stabilimento Bari,Roberto Ferrara,headcount,SI
+S3-STR-005,Infermeria e presidio sanitario,3,S3-STR,struttura,Stabilimento Bari,Monica Martini,headcount,SI
+S3-STR-006,Pulizie e facchinaggio,3,S3-STR,struttura,Stabilimento Bari,Valentina Russo,mq_occupati,SI
+COM,Direzione commerciale e vendite,1,,commerciale,Rete Commerciale,Laura Fontana,,SI
+COM-ITA,Vendite Italia,2,COM,commerciale,Rete Commerciale,Valentina Galli,,SI
+COM-EST,Vendite estero,2,COM,commerciale,Rete Commerciale,Marco Ferrari,,SI
+COM-MKT,Marketing e supporto vendite,2,COM,commerciale,Rete Commerciale,Paola Caruso,,SI
+COM-ITA-001,Area vendite Milano,3,COM-ITA,commerciale,Rete Commerciale,Monica Marino,,SI
+COM-ITA-002,Area vendite Torino,3,COM-ITA,commerciale,Rete Commerciale,Luca Costa,,SI
+COM-ITA-003,Area vendite Genova,3,COM-ITA,commerciale,Rete Commerciale,Sara Mancini,,SI
+COM-ITA-004,Area vendite Brescia,3,COM-ITA,commerciale,Rete Commerciale,Paolo Martini,,SI
+COM-ITA-005,Area vendite Bergamo,3,COM-ITA,commerciale,Rete Commerciale,Matteo Leone,,SI
+COM-ITA-006,Area vendite Verona,3,COM-ITA,commerciale,Rete Commerciale,Laura Colombo,,SI
+COM-ITA-007,Area vendite Padova,3,COM-ITA,commerciale,Rete Commerciale,Matteo Rossi,,SI
+COM-ITA-008,Area vendite Venezia,3,COM-ITA,commerciale,Rete Commerciale,Matteo Greco,,SI
+COM-ITA-009,Area vendite Treviso,3,COM-ITA,commerciale,Rete Commerciale,Paola Ferrara,,SI
+COM-ITA-010,Area vendite Vicenza,3,COM-ITA,commerciale,Rete Commerciale,Cristina Giordano,,SI
+COM-ITA-011,Area vendite Trieste,3,COM-ITA,commerciale,Rete Commerciale,Chiara Costa,,SI
+COM-ITA-012,Area vendite Udine,3,COM-ITA,commerciale,Rete Commerciale,Simone Rinaldi,,SI
+COM-ITA-013,Area vendite Bologna,3,COM-ITA,commerciale,Rete Commerciale,Cristina Lombardi,,SI
+COM-ITA-014,Area vendite Modena,3,COM-ITA,commerciale,Rete Commerciale,Elisa Mariani,,SI
+COM-ITA-015,Area vendite Parma,3,COM-ITA,commerciale,Rete Commerciale,Sara Esposito,,SI
+COM-ITA-016,Area vendite Reggio Emilia,3,COM-ITA,commerciale,Rete Commerciale,Paolo Bruno,,SI
+COM-ITA-017,Area vendite Ferrara,3,COM-ITA,commerciale,Rete Commerciale,Paolo Bianchi,,SI
+COM-ITA-018,Area vendite Ravenna,3,COM-ITA,commerciale,Rete Commerciale,Giorgio Rinaldi,,SI
+COM-ITA-019,Area vendite Rimini,3,COM-ITA,commerciale,Rete Commerciale,Valentina Bianchi,,SI
+COM-ITA-020,Area vendite Firenze,3,COM-ITA,commerciale,Rete Commerciale,Federica Gallo,,SI
+COM-ITA-021,Area vendite Prato,3,COM-ITA,commerciale,Rete Commerciale,Laura Bianchi,,SI
+COM-ITA-022,Area vendite Pisa,3,COM-ITA,commerciale,Rete Commerciale,Giorgio Mancini,,SI
+COM-ITA-023,Area vendite Livorno,3,COM-ITA,commerciale,Rete Commerciale,Alessandro Longo,,SI
+COM-ITA-024,Area vendite Arezzo,3,COM-ITA,commerciale,Rete Commerciale,Monica Rizzo,,SI
+COM-ITA-025,Area vendite Perugia,3,COM-ITA,commerciale,Rete Commerciale,Luca Bianchi,,SI
+COM-ITA-026,Area vendite Ancona,3,COM-ITA,commerciale,Rete Commerciale,Alessandro Ferrari,,SI
+COM-ITA-027,Area vendite Pesaro,3,COM-ITA,commerciale,Rete Commerciale,Monica Colombo,,SI
+COM-ITA-028,Area vendite Roma,3,COM-ITA,commerciale,Rete Commerciale,Giulia Barbieri,,SI
+COM-ITA-029,Area vendite Latina,3,COM-ITA,commerciale,Rete Commerciale,Giulia Santoro,,SI
+COM-ITA-030,Area vendite Frosinone,3,COM-ITA,commerciale,Rete Commerciale,Monica Marino,,SI
+COM-ITA-031,Area vendite Napoli,3,COM-ITA,commerciale,Rete Commerciale,Matteo Russo,,SI
+COM-ITA-032,Area vendite Salerno,3,COM-ITA,commerciale,Rete Commerciale,Giovanni Moretti,,SI
+COM-ITA-033,Area vendite Caserta,3,COM-ITA,commerciale,Rete Commerciale,Elena Moretti,,SI
+COM-ITA-034,Area vendite Bari,3,COM-ITA,commerciale,Rete Commerciale,Martina Bianchi,,SI
+COM-ITA-035,Area vendite Taranto,3,COM-ITA,commerciale,Rete Commerciale,Martina Ferrari,,SI
+COM-ITA-036,Area vendite Lecce,3,COM-ITA,commerciale,Rete Commerciale,Anna Santoro,,SI
+COM-ITA-037,Area vendite Foggia,3,COM-ITA,commerciale,Rete Commerciale,Giorgio Moretti,,SI
+COM-ITA-038,Area vendite Potenza,3,COM-ITA,commerciale,Rete Commerciale,Alessandro Gallo,,SI
+COM-ITA-039,Area vendite Cosenza,3,COM-ITA,commerciale,Rete Commerciale,Paola Greco,,SI
+COM-ITA-040,Area vendite Reggio Calabria,3,COM-ITA,commerciale,Rete Commerciale,Paolo Santoro,,SI
+COM-ITA-041,Area vendite Catania,3,COM-ITA,commerciale,Rete Commerciale,Simone Gallo,,SI
+COM-ITA-042,Area vendite Palermo,3,COM-ITA,commerciale,Rete Commerciale,Elena Greco,,SI
+COM-ITA-043,Area vendite Messina,3,COM-ITA,commerciale,Rete Commerciale,Matteo Esposito,,SI
+COM-ITA-044,Area vendite Cagliari,3,COM-ITA,commerciale,Rete Commerciale,Elisa Fontana,,SI
+COM-ITA-045,Area vendite Sassari,3,COM-ITA,commerciale,Rete Commerciale,Chiara Giordano,,NO
+COM-EST-001,Mercato Germania,3,COM-EST,commerciale,Rete Commerciale,Davide Longo,,SI
+COM-EST-002,Mercato Francia,3,COM-EST,commerciale,Rete Commerciale,Nicola Longo,,SI
+COM-EST-003,Mercato Spagna,3,COM-EST,commerciale,Rete Commerciale,Giulia Rossi,,SI
+COM-EST-004,Mercato Portogallo,3,COM-EST,commerciale,Rete Commerciale,Roberto Barbieri,,SI
+COM-EST-005,Mercato Regno Unito,3,COM-EST,commerciale,Rete Commerciale,Giorgio Russo,,SI
+COM-EST-006,Mercato Irlanda,3,COM-EST,commerciale,Rete Commerciale,Giulia Lombardi,,SI
+COM-EST-007,Mercato Belgio,3,COM-EST,commerciale,Rete Commerciale,Paolo Rizzo,,SI
+COM-EST-008,Mercato Paesi Bassi,3,COM-EST,commerciale,Rete Commerciale,Stefano Esposito,,SI
+COM-EST-009,Mercato Lussemburgo,3,COM-EST,commerciale,Rete Commerciale,Paola Conti,,SI
+COM-EST-010,Mercato Svizzera,3,COM-EST,commerciale,Rete Commerciale,Giovanni Ferrari,,SI
+COM-EST-011,Mercato Austria,3,COM-EST,commerciale,Rete Commerciale,Giovanni Marino,,SI
+COM-EST-012,Mercato Polonia,3,COM-EST,commerciale,Rete Commerciale,Silvia Bruno,,SI
+COM-EST-013,Mercato Repubblica Ceca,3,COM-EST,commerciale,Rete Commerciale,Luca Giordano,,SI
+COM-EST-014,Mercato Slovacchia,3,COM-EST,commerciale,Rete Commerciale,Antonio Lombardi,,SI
+COM-EST-015,Mercato Ungheria,3,COM-EST,commerciale,Rete Commerciale,Simone Bruno,,SI
+COM-EST-016,Mercato Romania,3,COM-EST,commerciale,Rete Commerciale,Martina Ferrara,,SI
+COM-EST-017,Mercato Svezia,3,COM-EST,commerciale,Rete Commerciale,Fabio Rizzo,,SI
+COM-EST-018,Mercato Danimarca,3,COM-EST,commerciale,Rete Commerciale,Marco Santoro,,SI
+COM-EST-019,Mercato Norvegia,3,COM-EST,commerciale,Rete Commerciale,Antonio Lombardi,,SI
+COM-EST-020,Mercato Finlandia,3,COM-EST,commerciale,Rete Commerciale,Chiara Longo,,SI
+COM-EST-021,Mercato Grecia,3,COM-EST,commerciale,Rete Commerciale,Elisa Russo,,SI
+COM-EST-022,Mercato Turchia,3,COM-EST,commerciale,Rete Commerciale,Giovanni Esposito,,SI
+COM-EST-023,Mercato Stati Uniti,3,COM-EST,commerciale,Rete Commerciale,Stefano Russo,,SI
+COM-EST-024,Mercato Canada,3,COM-EST,commerciale,Rete Commerciale,Giovanni Russo,,SI
+COM-EST-025,Mercato Emirati Arabi Uniti,3,COM-EST,commerciale,Rete Commerciale,Federica Lombardi,,NO
+COM-MKT-001,Marketing digitale,3,COM-MKT,commerciale,Rete Commerciale,Francesca Greco,,SI
+COM-MKT-002,Fiere ed eventi,3,COM-MKT,commerciale,Rete Commerciale,Chiara Barbieri,,SI
+COM-MKT-003,Comunicazione e ufficio stampa,3,COM-MKT,commerciale,Rete Commerciale,Paolo Mariani,,SI
+COM-MKT-004,Customer service,3,COM-MKT,commerciale,Rete Commerciale,Davide Ricci,,SI
+COM-MKT-005,Assistenza post-vendita,3,COM-MKT,commerciale,Rete Commerciale,Elisa Fontana,,SI
+COM-MKT-006,Ufficio gare e offerte,3,COM-MKT,commerciale,Rete Commerciale,Monica Greco,,SI
+COM-MKT-007,Pricing e listini,3,COM-MKT,commerciale,Rete Commerciale,Alessandro Mancini,,SI
+COM-MKT-008,CRM e analisi vendite,3,COM-MKT,commerciale,Rete Commerciale,Stefano Leone,,SI
+COM-MKT-009,Brand e immagine coordinata,3,COM-MKT,commerciale,Rete Commerciale,Paola Martini,,SI
+HQ,Sede centrale e funzioni di gruppo,1,,struttura,Sede Centrale,Laura Ferrari,,SI
+HQ-DIR,Direzione generale,2,HQ,struttura,Sede Centrale,Fabio Costa,costi_diretti,SI
+HQ-DIR-001,Direzione generale,3,HQ-DIR,struttura,Sede Centrale,Antonio Greco,costi_diretti,SI
+HQ-DIR-002,Segreteria di direzione,3,HQ-DIR,struttura,Sede Centrale,Laura Rossi,costi_diretti,SI
+HQ-DIR-003,Organi societari e CdA,3,HQ-DIR,struttura,Sede Centrale,Davide Caruso,costi_diretti,SI
+HQ-DIR-004,Pianificazione strategica,3,HQ-DIR,struttura,Sede Centrale,Francesca Fontana,costi_diretti,SI
+HQ-DIR-005,Internal audit,3,HQ-DIR,struttura,Sede Centrale,Stefano Colombo,costi_diretti,SI
+HQ-AFC,"Amministrazione, finanza e controllo",2,HQ,struttura,Sede Centrale,Federica Giordano,costi_diretti,SI
+HQ-AFC-001,Contabilità generale,3,HQ-AFC,struttura,Sede Centrale,Valentina Mariani,costi_diretti,SI
+HQ-AFC-002,Contabilità fornitori,3,HQ-AFC,struttura,Sede Centrale,Anna Lombardi,costi_diretti,SI
+HQ-AFC-003,Contabilità clienti,3,HQ-AFC,struttura,Sede Centrale,Marco Russo,costi_diretti,SI
+HQ-AFC-004,Tesoreria,3,HQ-AFC,struttura,Sede Centrale,Giulia Leone,costi_diretti,SI
+HQ-AFC-005,Controllo di gestione,3,HQ-AFC,struttura,Sede Centrale,Simone Leone,costi_diretti,SI
+HQ-AFC-006,Bilancio e fiscale,3,HQ-AFC,struttura,Sede Centrale,Francesca Lombardi,costi_diretti,SI
+HQ-AFC-007,Credito e incassi,3,HQ-AFC,struttura,Sede Centrale,Laura Galli,costi_diretti,SI
+HQ-AFC-008,Gestione cespiti,3,HQ-AFC,struttura,Sede Centrale,Silvia Moretti,costi_diretti,SI
+HQ-AFC-009,Fatturazione attiva,3,HQ-AFC,struttura,Sede Centrale,Valentina Esposito,costi_diretti,SI
+HQ-AFC-010,Reporting direzionale,3,HQ-AFC,struttura,Sede Centrale,Anna Esposito,costi_diretti,SI
+HQ-ICT,Sistemi informativi,2,HQ,struttura,Sede Centrale,Laura Bruno,n_utenti_it,SI
+HQ-ICT-001,Sistemi ERP,3,HQ-ICT,struttura,Sede Centrale,Silvia Leone,n_utenti_it,SI
+HQ-ICT-002,Infrastruttura e reti,3,HQ-ICT,struttura,Sede Centrale,Paola Ferrara,n_utenti_it,SI
+HQ-ICT-003,Help desk,3,HQ-ICT,struttura,Sede Centrale,Monica Bianchi,n_utenti_it,SI
+HQ-ICT-004,Sviluppo applicativo,3,HQ-ICT,struttura,Sede Centrale,Giovanni Conti,n_utenti_it,SI
+HQ-ICT-005,Cybersecurity,3,HQ-ICT,struttura,Sede Centrale,Paolo Santoro,n_utenti_it,SI
+HQ-ICT-006,Licenze e contratti software,3,HQ-ICT,struttura,Sede Centrale,Elena Santoro,n_utenti_it,SI
+HQ-ICT-007,Data center,3,HQ-ICT,struttura,Sede Centrale,Andrea Conti,n_utenti_it,SI
+HQ-ICT-008,Digital workplace,3,HQ-ICT,struttura,Sede Centrale,Nicola Lombardi,n_utenti_it,SI
+HQ-HR,Risorse umane,2,HQ,struttura,Sede Centrale,Giovanni Martini,headcount,SI
+HQ-HR-001,Amministrazione del personale,3,HQ-HR,struttura,Sede Centrale,Anna Barbieri,headcount,SI
+HQ-HR-002,Selezione e recruiting,3,HQ-HR,struttura,Sede Centrale,Federica Esposito,headcount,SI
+HQ-HR-003,Formazione e sviluppo,3,HQ-HR,struttura,Sede Centrale,Paola Longo,headcount,SI
+HQ-HR-004,Relazioni sindacali,3,HQ-HR,struttura,Sede Centrale,Elena Martini,headcount,SI
+HQ-HR-005,Payroll,3,HQ-HR,struttura,Sede Centrale,Luca Ferrara,headcount,SI
+HQ-HR-006,Welfare aziendale,3,HQ-HR,struttura,Sede Centrale,Cristina Colombo,headcount,SI
+HQ-ACQ,Acquisti di gruppo,2,HQ,struttura,Sede Centrale,Giovanni Costa,valore_acquistato,SI
+HQ-ACQ-001,Acquisti materie prime,3,HQ-ACQ,struttura,Sede Centrale,Marco Colombo,valore_acquistato,SI
+HQ-ACQ-002,Acquisti servizi,3,HQ-ACQ,struttura,Sede Centrale,Federica Longo,valore_acquistato,SI
+HQ-ACQ-003,Acquisti tecnici,3,HQ-ACQ,struttura,Sede Centrale,Davide Ferrara,valore_acquistato,SI
+HQ-ACQ-004,Qualifica fornitori,3,HQ-ACQ,struttura,Sede Centrale,Paola Costa,valore_acquistato,SI
+HQ-ACQ-005,Spedizioni e dogane,3,HQ-ACQ,struttura,Sede Centrale,Cristina Santoro,valore_acquistato,SI
+HQ-ACQ-006,Contratti quadro,3,HQ-ACQ,struttura,Sede Centrale,Monica Rinaldi,valore_acquistato,SI
+HQ-LEG,Affari legali e societari,2,HQ,struttura,Sede Centrale,Cristina Marino,costi_diretti,SI
+HQ-LEG-001,Affari legali,3,HQ-LEG,struttura,Sede Centrale,Stefano Colombo,costi_diretti,SI
+HQ-LEG-002,Compliance e privacy,3,HQ-LEG,struttura,Sede Centrale,Cristina Mariani,costi_diretti,SI
+HQ-LEG-003,Assicurazioni di gruppo,3,HQ-LEG,struttura,Sede Centrale,Andrea De Luca,costi_diretti,SI
+HQ-LEG-004,Affari societari,3,HQ-LEG,struttura,Sede Centrale,Monica Bianchi,costi_diretti,SI
